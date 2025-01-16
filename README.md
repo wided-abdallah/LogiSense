@@ -49,6 +49,10 @@ The application follows a layered architecture:
    - Role-based access control
    - Secure data handling
    - Authentication system
+  
+
+## Checkout the Demo 🔗
+https://youtu.be/asuVUGcNBTM
 
 ## Getting Started
 ```bash
