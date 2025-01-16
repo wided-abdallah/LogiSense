@@ -64,8 +64,5 @@ pip install -r requirements.txt
 # Run the application
 streamlit run LogiSense/Template/Home.py
 
-## Checkout the Demo
-https://youtu.be/asuVUGcNBTM
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
